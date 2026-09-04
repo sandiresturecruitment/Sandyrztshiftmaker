@@ -2,7 +2,7 @@
   "name": "SANDYRZT SHIFT MAKER",
   "short_name": "SRZ",
   "description": "Aplikasi Pembuat Jadwal Shift",
-  "start_url": "./jadwal_mixue.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#dc2626",
